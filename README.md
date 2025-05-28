@@ -1,7 +1,7 @@
 # Sarap Timpla
 A celebration of Filipino flavors — exploring rish traditions, authentic recipes, and the perfect balance of taste.
 
-📖 About
+# 📖 About
 Sarap Timpla is a digital home for Filipino culinary heritage, showcasing carefully crafted recipes, cultural insights, and a user-friendly experience for cooking enthusiasts. Built with React and Tailwind CSS, it dlivers a smooth and responsive UI, ensuring effortless navigation and dynamic content rendering.
 
 🚀 Features
@@ -17,7 +17,7 @@ Sarap Timpla is a digital home for Filipino culinary heritage, showcasing carefu
 - Tailwind CSS - conditional styling and & scalable design
 - Github Security - implemented security scans for vulnerabilities
 
-💡 Inspiration
+# 💡 Inspiration
 This project reflects the deep-rooted love for Filipino cuisine, blending tradition with modern web design. Every element — fonts, colors, layout — has been curated to resonate with the warmth and richness of Filipino culture.
 
 🔗 Live Demo
