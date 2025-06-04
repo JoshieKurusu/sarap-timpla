@@ -21,4 +21,4 @@ Sarap Timpla is a digital home for Filipino culinary heritage, showcasing carefu
 This project reflects the deep-rooted love for Filipino cuisine, blending tradition with modern web design. Every element — fonts, colors, layout — has been curated to resonate with the warmth and richness of Filipino culture.
 
 # 🔗 Live Demo
-Coming Soon!
+https://joshiekurusu.github.io/sarap-timpla/
